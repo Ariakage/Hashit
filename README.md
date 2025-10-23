@@ -1,10 +1,5 @@
 # Hashit
-![star](https://img.shields.io/github/stars/Ariakage/Hashit "star")  
-![fork](https://img.shields.io/github/forks/Ariakage/Hashit "fork")  
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Ariakage/Hashit.svg?label=commits "GitHub Last Commit")  
-![issues](https://img.shields.io/github/issues/Ariakage/Hashit "issues")  
-[![Author](https://img.shields.io/badge/Author-Ariakage-red.svg "Author")](https://ariakage.github.io "Author")  
-[![LICENSE](https://img.shields.io/github/license/Ariakage/Hashit "LICENSE")](./LICENSE "LICENSE")  
+![star](https://img.shields.io/github/stars/Ariakage/Hashit "star") ![fork](https://img.shields.io/github/forks/Ariakage/Hashit "fork") ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ariakage/Hashit.svg?label=commits "GitHub Last Commit") ![issues](https://img.shields.io/github/issues/Ariakage/Hashit "issues") [![Author](https://img.shields.io/badge/Author-Ariakage-red.svg "Author")](https://ariakage.github.io "Author") [![LICENSE](https://img.shields.io/github/license/Ariakage/Hashit "LICENSE")](./LICENSE "LICENSE")  
 
 > [!NOTE]
 > This README has a [Chinese version](README_CN.md)
